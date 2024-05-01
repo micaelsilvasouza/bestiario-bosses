@@ -1,0 +1,137 @@
+{
+    "ce": [
+        "O Cavaleiro Encharcado",
+        "O protetor estoico do Banquete Purulento, o Cavaleiro Encharacado carrega décadas de maresia seca em sua mortalha esfarrapada.",
+        "imagens/cavaleiro-encharcado.png"
+    ],
+    "rs": [
+        "A Rainha dos Sorrisos",
+        "Cruel e espectral, a rainha de Líven adorava enfeitar as muralhas da cidade com os corpos grotescamente sorridentes de suas vitimas. Em vida, ela brandia a famosa Espada do Reino e, na morte-viva, ela brande outras milhares.",
+        "imagens/rainha-sorrisos.png"
+    ],
+    "am": [
+        "O Alquimista Maluco",
+        "Antes conhecido como Ruzpin, o Grande Mestre de Alquimia e das  Pomadas, esta criatura é a casca assassina e sem nome de sua antiga glória.",
+        "imagens/alquimista-maluco.png"
+    ],
+    "ck": [
+        "Ciclope Kraekano",
+        "Um colosso de um olho só de origem kraekana. Muito se fala dos kraekanos, uma raça pouco vista de demônios antigos dos mares. O oceano é um lugar vasto, assustador e mortal. Quando muitos marinhiros não voltam dele os boatos se espalham.",
+        "imagens/ciclope-kraekano.png"
+    ],
+    "fb": [
+        "O Falso Bufão",
+        "Um kraekano temível, de forma indefinida. O Falso Bufão assumiu a forma atual para atrair, capturar e empalar aventureiros em busca do verdadeiro Bufão.",
+        "imagens/falso-bufao.png"
+    ],
+    "sk": [
+        "Serpe Kraekana",
+        "Uma serpe superior de origem kraekana. Antigamente, serpes, dracos e dragões habitavam as montanhas de MarKdor, mas os estudiosos e historiadores creem que essa era se foi há tempos e que o último de sua espécie foi derrotado por bravos guerreiros doriamos.",
+        "imagens/serpe-kraekana.png"
+    ],
+    "ah": [
+        "A Arvore Humana",
+        "Uma manifestação material de ferramentas de tortura. Nenhum objeto inanimado deveria ser capaz de possuir maldade, mas, em um mundo de magia arcana e espíritos vingativos, tudo é possivel.",
+        "imagens/arvore-humana.png"
+    ],
+    "ca": [
+        "Casca Estripada",
+        "Casca do que fora Hager, o Temível Pirata. Ele foi estripado e uma bonequinha vive dentro de sua cavidade abdominal, controlando suas ações como uma pequena marionete.",
+        "imagens/casca-estripada.png"
+    ],
+    "fp": [
+        "O Fedor mais Pútrido",
+        "O lorde putrefato do charco fedorento. Dizem que esta criatura vil e horrendo foi o resultado de uma experiência alquímica conduzida por um Espectro da Floresta alquimista, a quem sobrava ambição e faltava cautela. De inicio, o montro era pequeno, mas, ao devorar seu criador, não apenas cresceu, mas passou a adorar carne humana.",
+        "imagens/fedor-putrido.png"
+    ],
+    "ii": [
+        "O Inquisidor Intocado",
+        "Alasdair, o Verdadeiro Sacerdote da Luz, Voz da Voz Dela, ou o Inquisidor Intocado. Um homem santo que viu pecado no que fora chamado de Domo da Luz. Ele fez com que tudo manchado pelo pecado fosse sacrificado para que o Intocado pudesse prosperar. O Primeiro Cordeiro era a congregação; o Segundo Cordeiro era a Laineia, a Dama da Luz do Domo; e o Terceiro Cordeiro era Kinoa, a hipogrifo de estimação dela.",
+        "imagens/inquistor-intocado.png"
+    ],
+    "tc": [
+        "O Terceiro Cordeiro",
+        "Apenas uma sombra de sua antiga glória, o Tercerio Cordeiro é o escravo amarrado e destruido do Inquisidor Intocad. Houve um tempo em que esta fêmea de hipogrifo contava com orgulho, cmo carinho de seu mestre e com um nome, mas o Inquisidor passou a enxergar pecado nessas coisas e sacrificou todas elas, inclusive o próprio Cordeirdo.",
+        "imagens/terceiro-cordeiro.png"
+    ],
+    "rr": [
+        "O Rei Ressecado",
+        "O esqueleto morto-vivo de Quan In, Rei Sol de Kulka`as. Ele governou seu reion durante uma era de prosperidade incomparável. Mas, com o subsídio de cada ano, a paranoia e o desespero iam dominando-o cada vez mais rápido. Será que teve algo a ver com os boatos sobre seu irmão, morto há muito tempo, ainda exercendo influencia sobre o reino?",
+        "imagens/rei-ressecado.png"
+    ],
+    "ps": [
+        "O Principe sem Sangue",
+        "Um monstro de argila gigantesco, com três rostos, que, segundo dizem em segredo, abriga o espírito de Tam In, irmão de Quan In. Dizem os boatos que a criatura já teve o tamanho de um homem, mas foi absorvendo a terra gradativamente e cresceu, optando por ficar com três rostos para que a Trindade tivesse mais facilidade para lhe transmitir sabedoria. Dizem que Quan In amava e odiava esta aberração e que sua confiança em algo pelo que tinha tanta repulsa foi o que o enlouqueceu.",
+        "imagens/principe.png"
+    ],
+    "ct": [
+        "O Cobiçante",
+        "Um espírito etéreo. Pode ser o espírito do carrasco Erlang, ou do seu filho, Kuchet, mas não importa. Os dois são escravso espectrais sem identidade, presos para sempre por um desejo extramundano de possuir o machado do carrasco conhecido como O Cobiçado.",
+        "imagens/cobicante.png"
+    ],
+    "cd": [
+        "O Cobiçado",
+        "Um machado de carrasco feito de pedra estranhamente afiado. Diz a lenda que um carrasco real o recebeu como um presente misterioso e logo passou a adorá-lo. O poder no reino passou para outras pessoas e não tardou até que o carrasco usasse o machado em toda a familia real. O poder passou adiante novamente e o carrasco se tornou o rei. Mas ele nunca renunciou a seu cargo macabro. O machado sempre foi bem alimentado, mas nunca ficou satisteito.",
+        "imagens/cobicado.png"
+    ],
+    "mc":[
+        "Mandibarço, O Cruel",
+        "Admont, impostor do duque de Tristin, filho bastardo do marquês Laborn. Ele afirmava ter muitos inimigos e, por um tempo, as pessoas acreditaram, juntando-se a ele em seus esforços para livrar o ducado das bruxas e dos conspiradores.",
+        "imagens/mandibarco.png"
+    ],
+    "bl": [
+        "A Bruxa do Lago",
+        "Saira, uma das duas gêmas. A Bruxa do Lago, guardiã da Alquimanceria Salina, é uma maga lendária, alquimante e arcanista de poder imenso. Suas vestes negras escondem uma forma física que se desfigurou de forma grotesca por meio de um tipo de alquimia tão obscuro quanto perigoso.",
+        "imagens/bruxa-lago.png"
+    ],
+    "at": [
+        "A Arquiteta",
+        "Kaira, uma das duas gêmeas. Ela é imcomparável quando se trata de alquimancia salina. Ela trabalhou com o próprio mar, envenenado com a força vital de uma miríade de almas, transformando-o em abinações que ela mesma projetou com sua mete perversa. A Ordem permite que a vida tenha seu ciclo no mar, senod nascimento e morte fios do grande tapede do oceando. A alquimancia salina é uma perversão antinatural da Ordem.",
+        "imagens/arquiteta.png"
+    ],
+    "sp": [
+        "O Sem-pele",
+        "Guarda pessoal de Kaira, a Arquiteta. A alquimancia salina é uma prática dificilima e o Sem-Pele representa o suprassumo das habilidades incríveis de Kaira.",
+        "imagens/sem-pele.png"
+    ],
+    "sd": [
+        "Skourzh, O Dragão Kraekano",
+        "Um kraekano superior, Senhor das Tempestades, quardião da Cripta dos Deuses Mortos. Desde que os homens aprenderam a navegar pelos mares, os marinheiros temem este monstro, que lança tempestades devastadoras com facilidade, mandando reis e marinheiro para túmulos gelados no fundo do mar.",
+        "imagens/dragao.png"
+    ],
+    "dn": [
+        "O Deus sem Nome",
+        "O lorde desta ilha. Possui poder incrível sobre o tempo e o espaço, mas é mortal, falível, e está amaldiçoado eternamente por sua cobiça insaciável. O candelabro qeu ele carrega pode indicar o que ele mais deseja: um espírito luminoso, impossivel de ser obtido por um natissal.",
+        "imagens/deus-sem-nome.png"
+    ],
+    "pi": [
+        "O Profundo Indizivel",
+        "Um kraekano na forma mais comum. Criaturas como esta já tiveram nomes, mas os marinheiros tinham tanto medo de conjurar uma delas ao proferi-lo que passaram a chamá-las apenas de Profundos. Seu nome verdadeiro não importa, pois já se perdeu nas profundezas sombrias do oceano.",
+        "imagens/profundo-indizivel.png"
+    ],
+    "mm": [
+        "Murdiella Mali",
+        "Murdiella Mali, kraekana insetoide, Mosca Assassina, Rainha do Céu Sem Lua. Ela exite, em parte, no tecido etéreo do Fogo e do Céu. Suas mechas se costuram para dentro e para fora do reino celestial.",
+        "imagens/murdiella.png"
+    ],
+    "rc": [
+        "Ronin Cran",
+        "Ronin Cran, ou Cran, o Quebrado, alcunha que ele ganhou por causa de sua espada quebrada famosa, era um cavaleiro eximio a serviço de Jaret, Rei das Tempestades, antes de ser exonerado sem honras e, em seguida, fugir na calada da noite.",
+        "imagens/ronin-cran.png"
+    ],
+    "cs": [
+        "O Cavaleiro Esquecido",
+        "Uma criatura morta-viva gigante e com excelete aramadura. Carrega um Montante e uma armadura, mas sua inépcia com ambos é quase trágica, como se tivesse sido algum tipo de deus, mas estivesse reduzido a uma sombra trôpega de si mesmo.",
+        "imagens/cavaleiro-esquecido.png"
+    ],
+    "re": [
+        "O Rei Rsquecido",
+        "Uma criatura morta-viva gigante. Adornado com ouro, carrega um cetro, como algum tipo bizarro de perversão da realeza.",
+        "imagens/rei-esquecido.png"
+    ],
+    "je": [
+        "O Juiz Esquecido",
+        "Uma criatura morta-viva gigante e flutuante. Traja os farrapos de uma túnica violeta e carrega um tomo enorme com capa de couro.",
+        "imagens/juiz-esquecido.png"
+    ]
+}
