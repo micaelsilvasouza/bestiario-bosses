@@ -1,7 +1,14 @@
 //requerir o arquivo json do servidor
-function carregarConteudo(sigla) {
+function carregarConteudo(sigla, elemento) {
+    let buttons = document.querySelectorAll("button")
+    let imgs = document.querySelectorAll("img")
+
+    buttons.forEach((a)=>{a.setAttribute("class", "")})
+    imgs.forEach((a)=>{a.setAttribute("class", "")})
+
+    elemento.setAttribute("class", "selecionado")
     let xhttp = new XMLHttpRequest()
-    let json = "nada alem de um minuto"
+    
     xhttp.onload = ()=>{
         mostrarConteudo(JSON.parse(xhttp.responseText), sigla)
     }
