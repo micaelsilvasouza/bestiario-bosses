@@ -15,7 +15,6 @@ function carregarConteudo(sigla, elemento) {
 
     xhttp.open("GET", "bestiario.json")
     xhttp.send()
-    return json
 }
 
 function mostrarConteudo(json, sigla) {
