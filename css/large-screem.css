@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 1024px) and (min-height: 600px) and (max-height: 1000px){
+    *{
+        font-size: 20px;
+    }
+
+    body{
+        display: flex;
+        align-items: center;
+        justify-content: right;
+        flex-direction: row-reverse;
+        width: 100vw;
+        height: 100vh;
+    }
+
+    header{
+        display: block;
+        height: 100%;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    header > h1{
+        padding-top: 30vh;
+        font-size: 3em;
+    }
+
+    header > p{
+        font-size: 1em;
+    }
+
+    section, article{
+        height: 100vh;
+    }
+
+    section  img{
+        width: 150px;
+        height: 150px;
+    }
+
+    article img{
+        width: 200px;
+        height: 200px;
+    }
+}
